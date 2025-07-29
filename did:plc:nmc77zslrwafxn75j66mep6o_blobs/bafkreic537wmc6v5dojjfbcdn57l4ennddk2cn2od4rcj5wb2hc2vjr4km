@@ -1,0 +1,9 @@
+// ==UserScript==
+// @name        bridgy-masto-linker
+// @version     0.0.0
+// @author      uwx
+// @description Description goes here
+// @include     https://example.com/*
+// @grant       none
+// @require     file://G:\GitHub\JS\bridgy-masto-linker\dist\bridgy-masto-linker.user.js
+// ==/UserScript==

@@ -1,0 +1,19 @@
+{
+  "did": "did:plc:nmc77zslrwafxn75j66mep6o",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shnt9a733LGNVE4W4f3Hyj12oybyJt8dykRezEAMgtm4p2"
+  },
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "alsoKnownAs": [
+    "at://maxine.puppykitty.racing"
+  ],
+  "services": {
+    "atproto_pds": {
+      "type": "AtprotoPersonalDataServer",
+      "endpoint": "https://hydnum.us-west.host.bsky.network"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "alsoKnownAs": [
+    "at://spearcat.bsky.social"
+  ],
+  "prev": null,
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://hydnum.us-west.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "-EJ7sjf9XE2IIvew2iWXsn9PDEJDabjj92T-JJhoYjNnVaCAB7nJoRX661DkATSx_7tIgmIDEykjbara4Qm5WA",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shnt9a733LGNVE4W4f3Hyj12oybyJt8dykRezEAMgtm4p2"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://maxine.puppykitty.racing"
+  ],
+  "prev": "bafyreidlax76ms4nqbn3p7kpxtbd7tqujejfpnqdqawpia44ivvb57z6gu",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://hydnum.us-west.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "Sdey2jsRpT-NI5hA3VM3RMr0Z-8pSbQq7s3nt4SK_0Nc4Lr4UXrR_5eN6QDUPCBx8RGPQ_Pb5QGKJdrthkQqPw",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shnt9a733LGNVE4W4f3Hyj12oybyJt8dykRezEAMgtm4p2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/multikey/v1",
+    "https://w3id.org/security/suites/secp256k1-2019/v1"
+  ],
+  "id": "did:plc:nmc77zslrwafxn75j66mep6o",
+  "alsoKnownAs": [
+    "at://maxine.puppykitty.racing"
+  ],
+  "verificationMethod": [
+    {
+      "id": "did:plc:nmc77zslrwafxn75j66mep6o#atproto",
+      "type": "Multikey",
+      "controller": "did:plc:nmc77zslrwafxn75j66mep6o",
+      "publicKeyMultibase": "zQ3shnt9a733LGNVE4W4f3Hyj12oybyJt8dykRezEAMgtm4p2"
+    }
+  ],
+  "service": [
+    {
+      "id": "#atproto_pds",
+      "type": "AtprotoPersonalDataServer",
+      "serviceEndpoint": "https://hydnum.us-west.host.bsky.network"
+    }
+  ]
+}

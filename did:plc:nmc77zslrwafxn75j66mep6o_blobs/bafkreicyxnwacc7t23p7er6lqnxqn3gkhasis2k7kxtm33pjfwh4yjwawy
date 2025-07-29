@@ -1,0 +1,26 @@
+<BlueskyProfileCard actor="did:plc:2gkh62xvzokhlf6li4ol3b3d">
+	<a
+		target="_blank"
+		href="https://bsky.app/profile/did:plc:2gkh62xvzokhlf6li4ol3b3d"
+		class="bluesky-profile-card-fallback"
+	>
+		@patak.dev's Bluesky profile
+	</a>
+</BlueskyProfileCard>
+
+<BlueskyPost src="at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3kj2umze7zj2n">
+	<blockquote class="bluesky-post-fallback">
+		<p dir="auto">angel mode</p>
+		— Paul Frazee (@pfrazee.com)
+		<a href="https://bsky.app/profile/did:plc:ragtjsm2j2vknwkz3zp4oxrd/post/3kj2umze7zj2n">January 16, 2024 at 9:11 AM</a>
+	</blockquote>
+</BlueskyPost>
+
+<BlueskyProfileFeed actor="did:plc:ragtjsm2j2vknwkz3zp4oxrd" include-pins>
+	<a
+		target="_blank"
+		href="https://bsky.app/profile/did:plc:ragtjsm2j2vknwkz3zp4oxrd"
+		class="bluesky-profile-feed-fallback">
+		Posts by Paul Frazee (@pfrazee.com)
+	</a>
+</BlueskyProfileFeed>
